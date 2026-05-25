@@ -8,8 +8,6 @@ This project implements transfer learning using ResNet50 for binary classificati
 
 The model uses TensorFlow/Keras with data augmentation techniques to improve generalization performance on medical image datasets.
 
----
-
 ## Technologies Used
 - Python
 - TensorFlow
@@ -19,10 +17,7 @@ The model uses TensorFlow/Keras with data augmentation techniques to improve gen
 - Seaborn
 - Scikit-learn
 
----
-
 ## Dataset
-
 Dataset used:
 Chest X-Ray Images (Pneumonia)
 
@@ -39,8 +34,6 @@ pneumonia-classification-resnet50/
 │   └── test/
 ```
 
----
-
 ## Features
 - Transfer Learning using ResNet50
 - Feature Extraction
@@ -51,14 +44,10 @@ pneumonia-classification-resnet50/
 - Training Accuracy & Loss Visualization
 - Misclassification Analysis
 
----
-
 ## Results
 - Test Accuracy: 76%
 - High recall for PNEUMONIA detection
 - Transfer learning successfully applied on chest X-ray dataset
-
----
 
 ## Visualizations
 
@@ -73,8 +62,6 @@ pneumonia-classification-resnet50/
 
 ### Misclassified Samples
 ![Misclassified Samples](screenshots/misclassified_samples.png)
-
----
 
 ## Installation
 
