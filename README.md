@@ -8,14 +8,21 @@ This project implements transfer learning using ResNet50 for binary classificati
 
 The model uses TensorFlow/Keras with data augmentation techniques to improve generalization performance on medical image datasets.
 
-## Technologies Used
+## Tech Stack
+
+### Language
 - Python
+
+### Framework & Libraries
 - TensorFlow
 - Keras
 - NumPy
+- Scikit-learn
 - Matplotlib
 - Seaborn
-- Scikit-learn
+
+### Model Architecture
+- ResNet50
 
 ## Dataset
 Dataset used:
