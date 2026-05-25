@@ -64,8 +64,9 @@ pneumonia-classification-resnet50/
 ### Training Accuracy & Loss
 ![Training Graph](screenshots/loss_accuracy_graph.png)
 
-### Classification Report
-![Classification Report](screenshots/classification_report_metrics.png)
+<p align="center">
+  <img src="screenshots/classification_report_metrics.png" width="500">
+</p>
 
 ### Misclassified Samples
 ![Misclassified Samples](screenshots/misclassified_samples.png)
